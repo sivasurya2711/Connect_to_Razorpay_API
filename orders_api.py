@@ -1,6 +1,5 @@
 import requests
 import json
-import razorpay
 from requests.auth import HTTPBasicAuth
 data = {
     "amount" : 50000,
